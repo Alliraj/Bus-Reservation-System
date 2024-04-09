@@ -1,4 +1,4 @@
-# 🚌 Bus Reservation System
+# Bus Reservation System
 
 **PROJECT CREATED BY**: Alliraj P
 
